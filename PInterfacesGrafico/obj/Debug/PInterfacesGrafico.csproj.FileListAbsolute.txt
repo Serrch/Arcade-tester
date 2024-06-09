@@ -1,0 +1,16 @@
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.csproj.AssemblyReference.cache
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.Form1.resources
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.Properties.Resources.resources
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.csproj.GenerateResource.cache
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\PInterfacesGrafico.exe.config
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\PInterfacesGrafico.exe
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\PInterfacesGrafico.pdb
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\SharpDX.dll
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\SharpDX.pdb
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.csproj.CopyComplete
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.exe
+C:\Users\Dr. Sexo 1000 nigga\Desktop\5TO SEMESTRE\Programacion de interfaces\PInterfacesGrafico\PInterfacesGrafico\obj\Debug\PInterfacesGrafico.pdb
